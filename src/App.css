@@ -6,6 +6,10 @@
   text-align: center;
 }
 
+p {
+  font-size: smaller;
+}
+
 /* this css is for SearchEngine.js */
 
 .SearchEngine {
